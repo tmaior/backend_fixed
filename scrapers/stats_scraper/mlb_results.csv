@@ -1,0 +1,363 @@
+,player,runs,hits,strikeouts,RBI
+0,Steven Kwan,2,1,0,0
+1,Daniel Schneemann,1,1,2,0
+2,Jose Ramirez,1,1,2,1
+3,Carlos Santana,1,1,1,3
+4,Gabriel Arias,1,4,1,0
+5,Bo Naylor,1,1,1,0
+6,Justin Martinez,1,1,1,2
+7,Nolan Jones,0,0,1,0
+8,Jhonkensy Noel,0,0,0,0
+9,Brayan Rocchio,0,0,1,1
+10,,8,10,10,7
+11,Jeremy Pena,2,2,0,4
+12,Jose Altuve,1,1,0,0
+13,Isaac Paredes,1,1,2,1
+14,Christian Walker,0,1,0,0
+15,Yandy Diaz,0,1,0,2
+16,Jake Meyers,2,1,1,0
+17,Zach Dezenzo,2,1,0,1
+18,Mauricio Dubon,0,0,0,0
+19,Brendan Rodgers,1,0,1,0
+20,Chas McCormick,0,0,1,0
+21,,9,8,5,8
+22,Oneil Cruz,0,1,2,0
+23,Bryan Reynolds,0,0,2,0
+24,Andrew McCutchen,0,1,0,0
+25,Joey Bart,0,0,1,0
+26,Enmanuel Valdez,0,0,1,0
+27,Ke'Bryan Hayes,0,1,2,0
+28,Adam Frazier,0,0,0,0
+29,Tommy Pham,0,1,1,0
+30,Joc Pederson,0,0,1,0
+31,,0,4,10,0
+32,,,,,
+33,Mike Yastrzemski,1,1,3,0
+34,Willy Adames,0,2,1,0
+35,Jung Hoo Lee,0,0,1,0
+36,Matt Chapman,1,0,2,0
+37,Wilmer Flores,1,3,0,1
+38,Heliot Ramos,0,0,1,0
+39,Lourdes Gurriel Jr.,0,2,0,1
+40,Sam Huff,0,0,3,0
+41,,0,1,0,1
+42,,3,9,11,3
+43,,,,,
+44,,0,1,0,0
+45,Jorge Polanco,0,1,0,0
+46,Julio Rodriguez,0,2,0,0
+47,Cal Raleigh,1,1,1,0
+48,Randy Arozarena,1,1,0,0
+49,Miles Mastrobuoni,1,0,0,0
+50,Rowdy Tellez,1,1,2,3
+51,Leody Taveras,1,1,2,1
+52,Dylan Moore,1,2,0,1
+53,Willi Castro,0,1,2,1
+54,,6,11,7,6
+55,,,,,
+56,Francisco Lindor,1,2,1,2
+57,Juan Soto,2,2,1,3
+58,Pete Alonso,0,0,2,0
+59,Brandon Nimmo,0,1,0,0
+60,Luis Torrens,1,1,0,0
+61,Brett Baty,0,0,1,0
+62,Luisangel Acuna,1,1,1,1
+63,Jake McCarthy,0,1,2,1
+64,J.C. Escarra,1,0,0,0
+65,Taylor Ward,1,0,0,0
+66,,7,8,8,7
+67,,,,,
+68,Shohei Ohtani,2,1,0,0
+69,Mookie Betts,1,0,1,1
+70,Freddie Freeman,1,3,0,4
+71,Bo Naylor,0,0,1,0
+72,Andy Pages,1,2,1,1
+73,Max Muncy,1,1,2,0
+74,Michael Conforto,0,0,1,0
+75,Miguel Rojas,0,0,0,0
+76,Adley Rutschman,2,1,1,3
+77,Kike Hernandez,1,2,1,0
+78,,1,2,0,1
+79,Austin Barnes,0,0,3,0
+80,,10,12,11,10
+81,Josh Smith,0,1,2,0
+82,Wyatt Langford,0,0,2,0
+83,Corey Seager,1,1,0,1
+84,Joc Pederson,0,2,0,0
+85,,0,0,1,0
+86,Marcus Semien,0,0,0,0
+87,Adolis Garcia,1,1,0,2
+88,Kerry Carpenter,0,0,0,0
+89,Jonah Heim,1,1,0,0
+90,Jung Hoo Lee,1,2,0,1
+91,,4,8,5,4
+92,Bryson Stott,1,2,2,2
+93,Trea Turner,2,2,0,2
+94,Edmundo Sosa,0,0,0,0
+95,Bryce Harper,0,1,0,2
+96,Jacob Wilson,0,0,0,0
+97,Kyle Schwarber,0,2,0,0
+98,Nick Castellanos,0,1,1,0
+99,Brandon Marsh,0,0,0,0
+100,Max Kepler,0,1,1,0
+101,,1,0,2,0
+102,Rafael Marchan,0,0,0,0
+103,Alec Bohm,1,1,2,0
+104,Johan Rojas,2,1,1,1
+105,,7,11,9,7
+106,Fernando Tatis Jr.,1,1,2,0
+107,Luis Arraez,0,0,0,0
+108,Manny Machado,1,2,1,0
+109,Jackson Merrill,1,2,1,2
+110,Xander Bogaerts,0,1,2,1
+111,Gavin Sheets,0,0,1,0
+112,Romy Gonzalez,0,0,3,0
+113,Jason Heyward,0,0,0,0
+114,Jose Iglesias,0,0,0,0
+115,Martin Maldonado,0,0,1,0
+116,Brandon Lockridge,0,0,0,0
+117,Elias Diaz,0,0,0,0
+118,,3,6,11,3
+119,TJ Friedl,2,2,1,2
+120,Matt McLain,1,1,2,0
+121,Elly De La Cruz,0,1,0,0
+122,Gavin Lux,1,2,0,1
+123,Santiago Espinal,0,0,1,0
+124,Spencer Steer,0,0,1,0
+125,Steven Kwan,0,1,1,1
+126,Jacob Hurtubise,0,0,1,0
+127,Blake Dunn,0,0,0,0
+128,Rhys Hoskins,0,0,2,0
+129,,4,7,9,4
+130,Cedric Mullins,0,0,1,0
+131,Tim Anderson,0,1,0,0
+132,Adley Rutschman,0,1,1,0
+133,,0,2,0,0
+134,Ryan Mountcastle,0,1,1,0
+135,Jackson Holliday,0,0,1,0
+136,Ramon Laureano,2,2,1,1
+137,Heston Kjerstad,0,2,1,1
+138,MLB Average,0,1,1,0
+139,,2,10,7,2
+140,,,,,
+141,,,,,
+142,,,,,
+143,,,,,
+144,Jorge Polanco,0,0,2,0
+145,Miguel Vargas,1,2,0,0
+146,Lourdes Gurriel Jr.,0,1,0,1
+147,Matt Thaiss,0,1,0,0
+148,Michael A. Taylor,0,0,0,0
+149,Andrew Vaughn,0,0,2,0
+150,Brooks Baldwin,0,1,2,0
+151,Johan Rojas,0,1,1,0
+152,Lenyn Sosa,0,0,2,0
+153,Jacob Amaya,0,0,0,0
+154,Nick Maton,0,0,1,0
+155,Colt Keith,0,0,0,0
+156,,1,6,10,1
+157,Kerry Carpenter,0,1,1,0
+158,Gleyber Torres,0,1,0,1
+159,Colt Keith,0,2,0,1
+160,Joe Mantiply,0,0,1,0
+161,Riley Greene,1,0,1,0
+162,Spencer Torkelson,1,1,1,1
+163,Zach McKinstry,1,0,2,0
+164,Dillon Dingler,2,0,1,0
+165,Trey Sweeney,2,3,0,0
+166,Javier Baez,1,2,2,4
+167,,8,10,9,7
+168,,,,,
+169,Bo Bichette,0,1,1,2
+170,Vladimir Guerrero Jr.,1,2,1,0
+171,Anthony Santander,0,2,0,1
+172,George Springer,0,0,3,0
+173,Alejandro Kirk,0,1,0,0
+174,Ernie Clement,1,1,1,0
+175,Andres Gimenez,1,1,0,0
+176,Jake Burger,0,1,0,0
+177,Myles Straw,1,2,1,1
+178,,0,1,1,0
+179,,4,12,8,4
+180,,,,,
+181,CJ Abrams,1,3,0,1
+182,Amed Rosario,1,3,1,2
+183,James Wood,0,3,2,0
+184,Nathaniel Lowe,1,0,1,0
+185,,1,2,0,1
+186,Keibert Ruiz,0,0,1,0
+187,Lourdes Gurriel Jr.,1,1,0,1
+188,Dylan Crews,1,0,0,0
+189,Jacob Young,0,1,1,1
+190,,6,13,6,6
+191,,,,,
+192,Jackson Chourio,0,0,2,0
+193,Isaac Collins,0,0,1,0
+194,Christian Yelich,0,0,1,0
+195,Rhys Hoskins,0,1,0,0
+196,Junior Caminero,0,1,2,0
+197,,0,1,1,0
+198,Vinny Capra,0,0,1,0
+199,Eric Haase,1,1,1,1
+200,Joey Ortiz,0,0,0,0
+201,,1,4,9,1
+202,,,,,
+203,Lars Nootbaar,1,3,0,1
+204,Masyn Winn,0,2,0,2
+205,Brendan Donovan,1,1,0,0
+206,Willson Contreras,0,0,2,0
+207,Alec Burleson,0,0,1,0
+208,,1,1,0,0
+209,Nolan Gorman,0,1,2,0
+210,Jordan Walker,0,1,2,2
+211,Pedro Pages,0,1,2,0
+212,Victor Scott II,2,1,0,0
+213,,5,11,9,5
+214,Ian Happ,0,0,1,0
+215,Kyle Tucker,0,0,0,0
+216,Seiya Suzuki,0,0,1,0
+217,Carson Kelly,0,1,1,0
+218,Justin Turner,0,0,1,0
+219,Nico Hoerner,1,2,0,0
+220,Pete Crow-Armstrong,0,1,2,1
+221,Dansby Swanson,0,0,0,0
+222,Jon Berti,0,0,0,0
+223,Michael Busch,0,0,1,0
+224,,1,4,7,1
+225,Jacob Wilson,1,4,1,1
+226,Tyler Soderstrom,1,1,1,0
+227,Brent Rooker,0,0,2,0
+228,Miguel Andujar,1,1,0,1
+229,JJ Bleday,0,1,0,2
+230,Lawrence Butler,1,1,1,1
+231,Luis Urias,0,1,1,0
+232,Max Schuemann,0,0,0,0
+233,Seth Brown,1,1,2,0
+234,Jhonny Pereda,0,0,1,0
+235,Shea Langeliers,0,0,0,0
+236,,5,10,9,5
+237,Corbin Carroll,1,2,0,1
+238,Geraldo Perdomo,0,1,0,0
+239,Pavin Smith,0,0,2,0
+240,Josh Naylor,0,0,0,0
+241,Eugenio Suarez,0,0,2,0
+242,Lourdes Gurriel Jr.,0,0,1,0
+243,Alek Thomas,0,2,0,0
+244,,0,1,1,0
+245,Gabriel Moreno,0,0,0,0
+246,Jose Herrera,0,0,0,0
+247,Ketel Marte,0,0,0,0
+248,,1,6,6,1
+249,Xavier Edwards,0,1,0,0
+250,Kyle Stowers,0,1,2,0
+251,,1,1,0,0
+252,Eric Wagaman,0,0,0,0
+253,Gary Sanchez,0,0,1,1
+254,Jose Ramirez,0,2,1,0
+255,Matt Mervis,0,0,2,0
+256,Dane Myers,0,0,1,0
+257,Graham Pauley,0,0,1,0
+258,Javier Sanoja,0,0,1,0
+259,,1,5,9,1
+260,,,,,
+261,,,,,
+262,Jarren Duran,0,1,0,0
+263,Rafael Devers,0,0,0,0
+264,Alex Bregman,2,3,0,3
+265,Kristian Campbell,0,1,0,0
+266,Wilyer Abreu,2,3,0,3
+267,Trevor Story,0,0,1,0
+268,Romy Gonzalez,0,0,0,0
+269,Amed Rosario,0,0,0,0
+270,Connor Wong,1,1,0,0
+271,Ceddanne Rafaela,1,2,0,0
+272,,6,11,1,6
+273,Yandy Diaz,0,1,1,0
+274,Christopher Morel,0,0,2,0
+275,Junior Caminero,0,1,0,0
+276,Danny Jansen,0,0,0,0
+277,Curtis Mead,0,0,3,0
+278,Brandon Lowe,0,0,1,0
+279,Jose Caballero,0,0,2,0
+280,Taylor Walls,0,0,1,0
+281,Ryan Thompson,0,0,2,0
+282,,0,2,12,0
+283,,,,,
+284,,,,,
+285,,,,,
+286,,,,,
+287,Ben Rice,0,0,1,0
+288,Aaron Judge,0,0,3,0
+289,Austin Wells,0,0,0,0
+290,Paul Goldschmidt,0,0,1,0
+291,Cody Bellinger,1,2,0,1
+292,Anthony Volpe,0,0,2,0
+293,Jasson Dominguez,1,0,2,0
+294,Oswaldo Cabrera,1,0,0,0
+295,,0,0,1,0
+296,Trent Grisham,1,1,0,2
+297,Oswald Peraza,0,0,0,0
+298,,0,0,0,1
+299,,4,3,10,4
+300,,0,0,1,0
+301,Austin Riley,1,1,1,0
+302,Marcell Ozuna,1,0,1,0
+303,Matt Olson,0,1,3,1
+304,Ozzie Albies,0,0,2,1
+305,Michael Harris II,0,1,1,0
+306,Eli White,0,1,1,0
+307,Amed Rosario,0,0,1,0
+308,Drake Baldwin,1,2,0,1
+309,Nick Allen,0,0,2,0
+310,,3,6,13,3
+311,Byron Buxton,1,2,1,3
+312,Trevor Larnach,0,0,1,0
+313,,0,0,0,0
+314,Jarren Duran,0,0,0,0
+315,Ryan Jeffers,0,0,1,0
+316,Ty France,0,2,0,0
+317,Carlos Correa,0,0,1,0
+318,Korey Lee,0,2,0,0
+319,,0,0,0,0
+320,DaShawn Keirsey Jr.,1,0,0,0
+321,Willi Castro,1,1,1,0
+322,Kody Clemens,1,0,1,0
+323,Harrison Bader,1,1,0,2
+324,,5,8,6,5
+325,Maikel Garcia,0,2,0,0
+326,Bobby Witt Jr.,1,1,1,2
+327,Vinnie Pasquantino,0,2,1,0
+328,Salvador Perez,0,0,0,0
+329,Cavan Biggio,0,1,0,0
+330,Mark Canha,0,0,0,0
+331,Hunter Renfroe,0,0,0,0
+332,Michael Massey,0,1,1,0
+333,Dane Myers,0,1,0,0
+334,Luke Raley,1,1,0,0
+335,Kyle Isbel,0,1,0,0
+336,,2,10,3,2
+337,,,,,
+338,Brenton Doyle,0,1,1,1
+339,Jordan Beck,1,2,0,1
+340,Ryan McMahon,2,4,0,2
+341,Hunter Goodman,0,1,2,0
+342,Michael Toglia,1,3,0,2
+343,Nick Martini,0,0,0,0
+344,Sean Bouchard,0,0,1,0
+345,Kyle Farmer,0,0,1,0
+346,Mickey Moniak,1,1,1,0
+347,Jose Trevino,1,1,1,0
+348,,0,0,1,0
+349,,6,13,8,6
+350,J.T. Realmuto,1,1,2,0
+351,Nolan Schanuel,1,2,0,0
+352,Taylor Ward,0,0,3,0
+353,Jorge Soler,0,2,1,3
+354,,0,0,3,0
+355,Yoan Moncada,1,2,1,1
+356,,0,0,2,0
+357,Luis Rengifo,0,0,1,0
+358,Kevin Newman,0,0,0,0
+359,Jo Adell,0,0,1,0
+360,Kyren Paris,2,2,0,1
+361,,5,9,14,5
