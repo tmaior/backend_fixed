@@ -1,4 +1,3 @@
-# main_edit_stats.py
 from processors.edit_batting_stats import edit_batting_stats
 
 def main():
